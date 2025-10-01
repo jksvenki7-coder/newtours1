@@ -172,7 +172,7 @@
     <div class="sub-section">
       <h3>My Tours</h3>
       <p>Display planned tours here.</p>
-      <a class="whatsapp-link" href="https://wa.me/919876543210?text=Hello%20I%20want%20details%20about%20Tours" target="_blank" rel="noopener noreferrer">Contact Tours Person via WhatsApp</a>
+      <a class="whatsapp-link" href="https://wa.me/918977143043?text=Hello%20I%20want%20details%20about%20Tours" target="_blank" rel="noopener noreferrer">Contact Tours Person via WhatsApp</a>
       <form class="contact-form" onsubmit="handleSubmit(event, 'Tours')">
         <label for="name-tours">Name:</label>
         <input type="text" id="name-tours" name="name" required />
@@ -200,7 +200,7 @@
     <button class="back-btn" onclick="showDashboard()">Back to Dashboard</button>
     <h2>Rooms (Homestay)</h2>
     <p>Location-based rooms display here.</p>
-    <a class="whatsapp-link" href="https://wa.me/919812345678?text=Hello%20I%20want%20details%20about%20Rooms%20(Homestay)" target="_blank" rel="noopener noreferrer">Contact Rooms Person via WhatsApp</a>
+    <a class="whatsapp-link" href="https://wa.me/918977143043?text=Hello%20I%20want%20details%20about%20Rooms%20(Homestay)" target="_blank" rel="noopener noreferrer">Contact Rooms Person via WhatsApp</a>
     <form class="contact-form" onsubmit="handleSubmit(event, 'Rooms')">
       <label for="name-rooms">Name:</label>
       <input type="text" id="name-rooms" name="name" required />
@@ -235,7 +235,7 @@
         <li>Others...</li>
       </ul>
     </div>
-    <a class="whatsapp-link" href="https://wa.me/919898989898?text=Hello%20I%20want%20details%20about%20Travel%20options" target="_blank" rel="noopener noreferrer">Contact Travel Person via WhatsApp</a>
+    <a class="whatsapp-link" href="https://wa.me/8977143043?text=Hello%20I%20want%20details%20about%20Travel%20options" target="_blank" rel="noopener noreferrer">Contact Travel Person via WhatsApp</a>
     <form class="contact-form" onsubmit="handleSubmit(event, 'Travel')">
       <label for="name-travel">Name:</label>
       <input type="text" id="name-travel" name="name" required />
